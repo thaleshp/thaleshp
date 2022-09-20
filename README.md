@@ -1,8 +1,9 @@
-- Olá! Eu sou o Thales Henrique!
+- - 🔭 Hi, my name is Thales Henrique!
 
-- 🔭 Atualmente trabalho como Auxiliar de Escritório
-- 🌱 Estudando HTML, CSS E Javascript
-- 🌱 Cursando Analise e Desenvolvimento de Sistemas
+
+- 🔭 Currently enjoying the learning process!
+- 📕 Currently studying Javascript Programming Logic
+- 📕 I am in the 2nd Period of Software Analysis and Development!
 
 <div align="center">
   <a href="https://github.com/thaleshp">
