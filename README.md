@@ -1,4 +1,4 @@
-- - 🔭 Hi, my name is Thales Henrique!
+- 🔭 Hi, my name is Thales Henrique!
 
 
 - 🔭 Currently enjoying the learning process!
